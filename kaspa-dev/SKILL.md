@@ -1,6 +1,6 @@
 ---
 name: kaspa-dev
-description: Comprehensive Kaspa blockchain development toolkit for building transactions, integrating wallets, creating dApps, block explorers, and interacting with the Kaspa network. Use when working with Kaspa blockchain development including: (1) Building and broadcasting transactions, (2) Generating addresses and managing wallets, (3) Creating dApps or block explorers, (4) Integrating Kaspa into existing applications (RainbowKit, OisyWallet, etc.), (5) Working with KRC20 tokens, (6) Setting up Kaspa nodes, (7) Using Kaspa SDKs (Rust, Go, JavaScript/TypeScript, Python, WASM). Supports Rust, Go, JavaScript/TypeScript, Python, and Motoko (Internet Computer) development.
+description: "Comprehensive Kaspa blockchain development toolkit for building transactions, integrating wallets, creating dApps, block explorers, and interacting with the Kaspa network. Use when working with Kaspa blockchain development including: (1) Building and broadcasting transactions, (2) Generating addresses and managing wallets, (3) Creating dApps or block explorers, (4) Integrating Kaspa into existing applications (RainbowKit, OisyWallet, etc.), (5) Working with KRC20 tokens, (6) Setting up Kaspa nodes, (7) Using Kaspa SDKs (Rust, Go, JavaScript/TypeScript, Python, WASM). Supports Rust, Go, JavaScript/TypeScript, Python, and Motoko (Internet Computer) development."
 ---
 
 # Kaspa Development
