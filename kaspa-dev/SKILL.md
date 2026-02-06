@@ -126,6 +126,18 @@ See [references/wallet-integration.md](references/wallet-integration.md) for:
 - Address management
 - Network switching
 
+### Node Operations
+
+For setting up and operating Kaspa nodes:
+
+See [references/node-operations.md](references/node-operations.md) for:
+- Docker deployment
+- Binary installation
+- Building from source
+- Configuration options
+- RPC node setup
+- Monitoring and maintenance
+
 ### dApp Development
 
 When building a Kaspa dApp:
@@ -194,6 +206,7 @@ The `scripts/` directory contains utility scripts:
 - **kaspa-python-sdk.md**: Python SDK documentation
 - **krc20-tokens.md**: KRC20 token standard documentation
 - **wallet-integration.md**: Wallet integration patterns and examples
+- **node-operations.md**: Complete guide for running Kaspa nodes
 
 ### Assets
 
